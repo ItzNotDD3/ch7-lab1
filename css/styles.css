@@ -211,7 +211,7 @@ nav li {
 /* Tablet Viewport: Style rule for grid */
 .grid{
   display: grid;
-  grid-template-columns: 20px / auto auto;
+  grid-template-columns: 20px 20px;
 }
 /* Tablet Viewport: Style rule for aside */
 aside{
@@ -239,7 +239,7 @@ nav li a:hover {
 }
 /* Desktop Viewport: Style rule for grid */
 .grid{
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: 20px 20px 20px 20px;
 }
 /* Desktop Viewport: style rule for figcaption */
 figcaption{
